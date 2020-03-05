@@ -1,0 +1,15 @@
+.background {
+  background: url(../../../images/background.png) no-repeat;
+  background-size: cover;
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  min-height: 200px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
