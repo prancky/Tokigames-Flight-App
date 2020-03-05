@@ -26,6 +26,7 @@ function AddFlight(props) {
       };
       props.addBusinessFLights(businessFlightData);
     }
+    navigateBack();
   };
 
   const navigateBack = () => {
